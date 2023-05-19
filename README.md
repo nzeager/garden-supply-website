@@ -1,6 +1,14 @@
 # Build a Small Business Website
 
-## Directions
+## Momentum Boot Camp Project 1
+
+Skills:
+
+- first html project
+- using html tags to display different parts of the page (header, images, paragraph, etc)
+- navigation to different pages
+
+## Below are Project Directions
 
 Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
 
